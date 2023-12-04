@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rometpiir
+- 👋 Hi, I’m Romet Piir
 - 👀 I’m interested in coding,hacking and gym
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Rometpiir@gmail.com
